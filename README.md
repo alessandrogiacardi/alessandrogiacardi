@@ -1,5 +1,5 @@
 👋 Hi, I’m Alessandro Giacardi, PhD student in Social Sciences and Economics at Sapienza University.
-🌱 I’m interested in socio-environmental analysis of food systems transformation, and adaptive dynamics in rural development. I’m currently learning quantitative analysis, coding, and much more.
+🌱 I’m workin on adaptation strategies to climate change and the adaptive dynamics of rural development. My interests also include policy impact evaluation and socio-environmental analysis of food system transformations. Currently, I’m deepening my skills in quantitative analysis, coding, and more!
 
 📫 You can reach me at alessandro.giacardi@uniroma1.it
 
